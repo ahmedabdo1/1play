@@ -1,5 +1,5 @@
 token=NTIzNjAxNjMxOTQyNTQxMzIy.Dvnhxw.j-rT4btfnQG01OFMMZXh-9LeL8M
-owner=451463811870752778 
+owner=
 prefix=1
 game= Music
 stayinchannel=true
