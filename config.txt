@@ -1,4 +1,4 @@
-token=NTIzNjAxNjMxOTQyNTQxMzIy.DvnfLA.wUJy0tT7sEi52KTr2pDG2xtmP-o
+token=NTIzNjAxNjMxOTQyNTQxMzIy.Dvnhxw.j-rT4btfnQG01OFMMZXh-9LeL8M
 owner=451463811870752778 
 prefix=1
 game= Music
